@@ -1,0 +1,11 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+public class ListIngredient {
+    private List<String> ingredients;
+
+    public ListIngredient(List<String> ingredients) {
+        this.ingredients = ingredients;
+    }
+}
